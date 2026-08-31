@@ -30,7 +30,7 @@ I'm Donghun Ryou, and I'm a PhD student at the Computer Vision Lab at Seoul Nati
       <img
         alt="Star History Chart"
         src="https://api.star-history.com/chart?repos=dhryougit/AFM%2Cdhryougit/Beyond-the-Ground-Truth%2Cdhryougit/learning-to-translate-noise&type=date&legend=top-left&sealed_token=zL0dUYuwve8xx-2oB2BM81oXvFb3K03ixueDRS9xyiaYehbAXpyl5bubqWDYoiPPmbXhZQ-CWm0ke76Sgc67-HuALTyZaYR90BWdFkrWp6ntDwS_RRzMwQ"
-        width="720"
+        width="480"
       />
     </picture>
   </a>
