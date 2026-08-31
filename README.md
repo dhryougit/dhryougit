@@ -16,14 +16,25 @@ I'm Donghun Ryou, and I'm a PhD student at the Computer Vision Lab at Seoul Nati
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=dhryougit%2FAFM%2Cdhryougit%2FBeyond-the-Ground-Truth%2Cdhryougit%2Flearning-to-translate-noise&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=dhryougit/AFM%2Cdhryougit/Beyond-the-Ground-Truth%2Cdhryougit/learning-to-translate-noise&type=date&theme=dark&legend=top-left&sealed_token=LJLOVMe6P99rV42jf4pIeK_zC4N2bzHvBcB0qcXZh0IEES4OZMioohCq-1NuKOH4F6k8YWBYeTmbKgUDsiVIhgLsN166X1Gu6-iFpqh9KTok0pS6Z37I7g" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=dhryougit/AFM%2Cdhryougit/Beyond-the-Ground-Truth%2Cdhryougit/learning-to-translate-noise&type=date&legend=top-left&sealed_token=LJLOVMe6P99rV42jf4pIeK_zC4N2bzHvBcB0qcXZh0IEES4OZMioohCq-1NuKOH4F6k8YWBYeTmbKgUDsiVIhgLsN166X1Gu6-iFpqh9KTok0pS6Z37I7g" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=dhryougit/AFM%2Cdhryougit/Beyond-the-Ground-Truth%2Cdhryougit/learning-to-translate-noise&type=date&legend=top-left&sealed_token=LJLOVMe6P99rV42jf4pIeK_zC4N2bzHvBcB0qcXZh0IEES4OZMioohCq-1NuKOH4F6k8YWBYeTmbKgUDsiVIhgLsN166X1Gu6-iFpqh9KTok0pS6Z37I7g" />
- </picture>
-</a>
-
+<p align="center">
+  <a href="https://www.star-history.com/?repos=dhryougit%2FAFM%2Cdhryougit%2FBeyond-the-Ground-Truth%2Cdhryougit%2Flearning-to-translate-noise&type=date&legend=top-left">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://api.star-history.com/chart?repos=dhryougit/AFM%2Cdhryougit/Beyond-the-Ground-Truth%2Cdhryougit/learning-to-translate-noise&type=date&theme=dark&legend=top-left&sealed_token=zL0dUYuwve8xx-2oB2BM81oXvFb3K03ixueDRS9xyiaYehbAXpyl5bubqWDYoiPPmbXhZQ-CWm0ke76Sgc67-HuALTyZaYR90BWdFkrWp6ntDwS_RRzMwQ"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://api.star-history.com/chart?repos=dhryougit/AFM%2Cdhryougit/Beyond-the-Ground-Truth%2Cdhryougit/learning-to-translate-noise&type=date&legend=top-left&sealed_token=zL0dUYuwve8xx-2oB2BM81oXvFb3K03ixueDRS9xyiaYehbAXpyl5bubqWDYoiPPmbXhZQ-CWm0ke76Sgc67-HuALTyZaYR90BWdFkrWp6ntDwS_RRzMwQ"
+      />
+      <img
+        alt="Star History Chart"
+        src="https://api.star-history.com/chart?repos=dhryougit/AFM%2Cdhryougit/Beyond-the-Ground-Truth%2Cdhryougit/learning-to-translate-noise&type=date&legend=top-left&sealed_token=zL0dUYuwve8xx-2oB2BM81oXvFb3K03ixueDRS9xyiaYehbAXpyl5bubqWDYoiPPmbXhZQ-CWm0ke76Sgc67-HuALTyZaYR90BWdFkrWp6ntDwS_RRzMwQ"
+        width="720"
+      />
+    </picture>
+  </a>
+</p>
 <!--
 **dhryougit/dhryougit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
