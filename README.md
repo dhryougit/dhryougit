@@ -14,27 +14,6 @@ I'm Donghun Ryou, and I'm a PhD student at the Computer Vision Lab at Seoul Nati
   </a>
 </p>
 
-## Star History
-
-<p align="center">
-  <a href="https://www.star-history.com/?repos=dhryougit%2FAFM%2Cdhryougit%2FBeyond-the-Ground-Truth%2Cdhryougit%2Flearning-to-translate-noise&type=date&legend=top-left">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://api.star-history.com/chart?repos=dhryougit/AFM%2Cdhryougit/Beyond-the-Ground-Truth%2Cdhryougit/learning-to-translate-noise&type=date&theme=dark&legend=top-left&sealed_token=zL0dUYuwve8xx-2oB2BM81oXvFb3K03ixueDRS9xyiaYehbAXpyl5bubqWDYoiPPmbXhZQ-CWm0ke76Sgc67-HuALTyZaYR90BWdFkrWp6ntDwS_RRzMwQ"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://api.star-history.com/chart?repos=dhryougit/AFM%2Cdhryougit/Beyond-the-Ground-Truth%2Cdhryougit/learning-to-translate-noise&type=date&legend=top-left&sealed_token=zL0dUYuwve8xx-2oB2BM81oXvFb3K03ixueDRS9xyiaYehbAXpyl5bubqWDYoiPPmbXhZQ-CWm0ke76Sgc67-HuALTyZaYR90BWdFkrWp6ntDwS_RRzMwQ"
-      />
-      <img
-        alt="Star History Chart"
-        src="https://api.star-history.com/chart?repos=dhryougit/AFM%2Cdhryougit/Beyond-the-Ground-Truth%2Cdhryougit/learning-to-translate-noise&type=date&legend=top-left&sealed_token=zL0dUYuwve8xx-2oB2BM81oXvFb3K03ixueDRS9xyiaYehbAXpyl5bubqWDYoiPPmbXhZQ-CWm0ke76Sgc67-HuALTyZaYR90BWdFkrWp6ntDwS_RRzMwQ"
-        width="680"
-      />
-    </picture>
-  </a>
-</p>
 <!--
 **dhryougit/dhryougit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
